@@ -1,4 +1,4 @@
-Project setup
+#Project setup
 
 Install packages:
 ### `npm install`
